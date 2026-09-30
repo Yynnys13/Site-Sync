@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 214 64" fill="none" role="img" aria-label="Site Sync">
+  <title>Site Sync</title>
+  <rect x="6" y="10" width="52" height="44" rx="7" stroke="#00C2FF" stroke-width="4"/>
+  <path d="M6 17a7 7 0 0 1 7-7h38a7 7 0 0 1 7 7v4H6z" fill="#00C2FF"/>
+  <g fill="#1E1E1E"><circle cx="15.5" cy="15.5" r="2"/><circle cx="22.5" cy="15.5" r="2"/><circle cx="29.5" cy="15.5" r="2"/></g>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#FFFFFF" fill="#FFFFFF"><path d="M20.5 37.5A11.5 11.5 0 0 1 40.69 29.95" fill="none" stroke-width="3.6"/><path d="M42.62 32.41L36.32 31.5L43.25 26.08Z" stroke-width="1"/></g>
+    <g stroke="#00C2FF" fill="#00C2FF" transform="rotate(180 32 37.5)"><path d="M20.5 37.5A11.5 11.5 0 0 1 40.69 29.95" fill="none" stroke-width="3.6"/><path d="M42.62 32.41L36.32 31.5L43.25 26.08Z" stroke-width="1"/></g>
+  </g>
+  <text x="72" y="42" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="28" font-weight="600" letter-spacing="-.3"><tspan fill="#FFFFFF">Site</tspan><tspan fill="#00C2FF" dx="7">Sync</tspan></text>
+</svg>
