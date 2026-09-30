@@ -75,12 +75,9 @@ Remote site  →  Files fetched  →  Your local files
 A demo video shows the extension in action, from entering a site's address to changing its look and content live.
 
 **▶️ Watch the video: `[VIDEO LINK TO ADD]`**
+
 <p align="center">
-  <img
-    src="https://api-online.alwaysdata.net/media/site-ssync-exemple.gif"
-    alt="Site Sync demo"
-    width="800"
-  >
+  <img src="https://api-online.alwaysdata.net/media/site-ssync-exemple.gif" alt="Site Sync demo" width="800">
 </p>
 
 What you can see in it:
