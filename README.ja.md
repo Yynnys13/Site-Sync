@@ -74,7 +74,12 @@
 
 デモ動画では、サイトのアドレスを入力してから、外観や内容をリアルタイムで変更するまでの流れを紹介しています。
 
-**▶️ [動画を見る](https://api-online.alwaysdata.net/media/site-ssync-exemple.mp4)**
+<p align="center">
+  <a href="https://api-online.alwaysdata.net/media/site-ssync-exemple.mp4">
+    <img src="https://img.shields.io/badge/▶️%20動画を見る-デモ動画-blue?style=for-the-badge" alt="デモ動画を見る">
+  </a>
+</p>
+
 
 動画の内容：
 

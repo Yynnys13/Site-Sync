@@ -74,7 +74,12 @@ Site distant  →  Récupération des fichiers  →  Vos fichiers locaux
 
 Une vidéo de démonstration montre l'extension en action, de l'ajout de l'adresse d'un site jusqu'à la modification en direct de son apparence et de son contenu.
 
-**▶️ [Voir la vidéo](https://api-online.alwaysdata.net/media/site-ssync-exemple.mp4)**
+<p align="center">
+  <a href="https://api-online.alwaysdata.net/media/site-ssync-exemple.mp4">
+    <img src="https://img.shields.io/badge/▶️%20Voir%20la%20vidéo-Démo%20vidéo-blue?style=for-the-badge" alt="Voir la vidéo de démonstration">
+  </a>
+</p>
+
 
 Ce qu'on y voit :
 
