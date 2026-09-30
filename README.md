@@ -16,9 +16,11 @@
 
 > ⚠️ **Important notice — experimental project**
 >
-> Site Sync is a **young, experimental** project. Its code and interfaces were **generated with the help of artificial intelligence**, and the extension has **not been thoroughly tested in real-world conditions**. It may contain bugs, behave differently from one site to another, or not work at all on some of them.
+> Site Sync is a **young, experimental** project. Some parts of its code have been **written, corrected, or improved with the assistance of artificial intelligence**, while the project as a whole has been developed and maintained by its author.
 >
-> It is provided **as is, without any warranty**. Your feedback is very welcome: see [Reporting a problem](#-reporting-a-problem--contributing).
+> The extension has been **tested before release**, but it has not been tested on every possible website or environment. It may therefore contain bugs, behave differently from one site to another, or not work as expected on some of them.
+>
+> It is provided **as is, without any warranty**. Your feedback is very welcome: see [Reporting a problem / Contributing](#-reporting-a-problem--contributing).
 
 ---
 

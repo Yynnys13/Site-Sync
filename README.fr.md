@@ -16,9 +16,11 @@
 
 > ⚠️ **Avis important — projet expérimental**
 >
-> Site Sync est un projet **jeune et expérimental**. Son code et ses interfaces ont été **générés avec l'aide d'une intelligence artificielle** et l'extension **n'a pas fait l'objet de tests approfondis en conditions réelles**. Elle peut donc contenir des bugs, se comporter différemment selon les sites, ou ne pas fonctionner du tout sur certains d'entre eux.
+> Site Sync est un projet **jeune et expérimental**. Certaines parties de son code ont été **écrites, corrigées ou améliorées avec l'aide d'une intelligence artificielle**, tandis que le projet dans son ensemble a été développé et maintenu par son auteur.
 >
-> Elle est proposée **telle quelle, sans garantie**. Vos retours sont précieux : voir [Signaler un problème](#-signaler-un-problème--contribuer).
+> L'extension a été **testée avant sa publication**, mais elle n'a pas pu être testée sur tous les sites et environnements possibles. Elle peut donc contenir des bugs, se comporter différemment selon les sites, ou ne pas fonctionner comme prévu sur certains d'entre eux.
+>
+> Elle est proposée **telle quelle, sans garantie**. Vos retours sont précieux : voir [Signaler un problème / Contribuer](#-signaler-un-problème--contribuer).
 
 ---
 
