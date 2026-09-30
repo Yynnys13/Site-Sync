@@ -74,7 +74,11 @@ Remote site  →  Files fetched  →  Your local files
 
 A demo video shows the extension in action, from entering a site's address to changing its look and content live.
 
-**▶️ Watch the video: `[https://drive.google.com/file/d/1fvbouv1OdsDvhSvelnRd1zcV3skrVOxl/view?usp=sharing]`**
+**▶️ Watch the video: `[VIDEO LINK TO ADD]`**
+<video controls width="800">
+  <source src="https://api-online.alwaysdata.net/media/site-ssync-exemple.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 What you can see in it:
 
