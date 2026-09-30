@@ -159,18 +159,22 @@ Site Sync adds a dedicated section to VS Code's activity bar, made of two views.
 
 ### "Session" view
 
-This is the extension's dashboard:
+This is the extension's dashboard, and it adapts to what you are doing.
+
+**Before starting**: a **Site URL** field, a **Start** button, and your **Recent** sites (one click to start one again).
+
+**Once a session is running**:
 
 | Element | Purpose |
 |---|---|
-| **Site URL** | The field where you enter the address of the site to use |
-| **Start / Stop** | Starts or stops the session |
-| **Session** | Shows the state: *Stopped*, *Starting…* or *Connected* |
-| **Current page** | The page displayed in the preview |
-| **Resources** | The number of fetched files, and how many you have modified |
-| **Actions** | Quick buttons: open the site, edit the page's HTML, open the files, refresh, stop |
-| **Help** | Access to the documentation and the getting started guide |
-| **Language** | Selector to change the interface language |
+| **Status** (top right) | *Stopped*, *Starting…* or *Connected* |
+| **Site card** | The site's host, the **current page**, and the live-reload state (is a preview connected?). Two icons: open in an **external browser**, and **stop** the session |
+| **Quick actions** | **Preview**, **Page HTML**, **Files**, **Refresh** |
+| **Resources** | Total number of files, a **colored bar** by type (HTML, CSS, JS, images, fonts, other) and how many files you modified |
+| **Activity** | The latest events with their time: pages visited, files downloaded, files saved, CSS updated |
+| **Footer** | Documentation, Getting started, Help, and the **language** selector |
+
+Errors appear in a red box with a **Show logs** button.
 
 ### "Resources" view
 
@@ -183,7 +187,7 @@ A tree listing all fetched files, **sorted by type**:
 - **Fonts**: font files
 - **Other**: everything else (data, media…)
 
-A simple **click** on a file opens it in the editor. Files you have modified are flagged.
+A simple **click** on a file opens it in the editor. Files you have modified are flagged. A **badge** on the view shows the number of files, and a **right-click** on a file lets you *reveal it in the explorer*, *open the remote version in your browser* or *copy its remote URL*.
 
 ### The preview
 

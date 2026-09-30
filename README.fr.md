@@ -160,31 +160,35 @@ Site Sync ajoute une section dédiée dans la barre d'activité de VS Code, comp
 
 ### Vue « Session »
 
-C'est le tableau de bord de l'extension :
+C'est le tableau de bord de l'extension, et il s'adapte à ce que vous faites.
+
+**Avant le lancement** : un champ **URL du site**, un bouton **Lancer** et vos sites **Récents** (un clic pour relancer l'un d'eux).
+
+**Une fois la session lancée** :
 
 | Élément | Rôle |
 |---|---|
-| **URL du site** | Le champ où saisir l'adresse du site à utiliser |
-| **Lancer / Arrêter** | Démarre ou stoppe la session |
-| **Session** | Indique l'état : *Arrêté*, *Démarrage…* ou *Connecté* |
-| **Page actuelle** | La page affichée dans l'aperçu |
-| **Ressources** | Le nombre de fichiers récupérés, et combien ont été modifiés par vous |
-| **Actions** | Boutons rapides : ouvrir le site, modifier le HTML de la page, ouvrir les fichiers, actualiser, arrêter |
-| **Aide** | Accès à la documentation et au guide de démarrage |
-| **Langue** | Sélecteur pour changer la langue de l'interface |
+| **État** (en haut à droite) | *Arrêté*, *Démarrage…* ou *Connecté* |
+| **Carte du site** | L'hôte du site, la **page actuelle** et l'état du live reload (une preview est-elle connectée ?). Deux icônes : ouvrir dans un **navigateur externe** et **arrêter** la session |
+| **Actions rapides** | **Preview**, **HTML page**, **Fichiers**, **Actualiser** |
+| **Ressources** | Nombre total de fichiers, une **barre colorée** par type (HTML, CSS, JS, images, polices, autres) et le nombre de fichiers que vous avez modifiés |
+| **Activité** | Les derniers événements avec l'heure : pages visitées, fichiers téléchargés, fichiers enregistrés, CSS mis à jour |
+| **Pied de vue** | Documentation, Guide de démarrage, Aide et sélecteur de **langue** |
+
+Les erreurs s'affichent dans un encadré rouge avec un bouton **Afficher les logs**.
 
 ### Vue « Ressources »
 
-Une arborescence qui liste tous les fichiers récupérés, **classés par type** :
+Une arborescence listant tous les fichiers récupérés, **classés par type** :
 
 - **HTML** : les pages visitées
-- **CSS** : les feuilles de style
-- **JavaScript** : les scripts
+- **CSS** : feuilles de style
+- **JavaScript** : scripts
 - **Images** : images et icônes
 - **Polices** : fichiers de polices
-- **Autres** : le reste (données, médias…)
+- **Autres** : tout le reste (données, médias…)
 
-Un simple **clic** sur un fichier l'ouvre dans l'éditeur. Les fichiers que vous avez modifiés sont signalés.
+Un simple **clic** sur un fichier l'ouvre dans l'éditeur. Les fichiers modifiés sont signalés. Un **badge** sur la vue indique le nombre de fichiers, et un **clic droit** sur un fichier permet de *l'afficher dans l'explorateur*, d'*ouvrir la version distante dans le navigateur* ou de *copier son URL distante*.
 
 ### L'aperçu
 

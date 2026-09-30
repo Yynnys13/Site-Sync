@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.5.0
+- New sidebar interface: compact dashboard that adapts to the state (before start / running), with native VS Code icons (codicons), site card with live-reload status, quick actions, colored resource bar by type, recent activity feed, recent sites, clearer error box with a "Show logs" button, footer with help and language selector. Works with light, dark and high-contrast themes.
+- Resources view: badge with the number of files, site host as description, rich tooltips, and a right-click menu (reveal in explorer, open remote version, copy remote URL).
+- Actions that used to be cut off or hard to read when the view was small are now always visible.
+
 ## 0.4.4
 - Update Readme
 
