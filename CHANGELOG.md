@@ -1,9 +1,12 @@
 # Changelog
 
-## 0.4.1
+## 0.4.2
 - Update Readme
 
 ## 0.4.1
+- Update Readme
+
+## 0.4.0
 - Interface and documentation in English (default), Français and 日本語, with a language selector (sidebar, `Site Sync: Select Language`, `siteSync.language`); the change applies immediately.
 - Localized manifest (`package.nls.*.json`), documentation in `docs/en`, `docs/fr`, `docs/ja`, READMEs in three languages.
 - New `Open Page HTML` command, extension icon and logo set, HTML editing and proactive resource detection (see 0.2 / 0.3).

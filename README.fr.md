@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/logo-wordmark.png" alt="Site Sync" width="320">
+  <img src="https://github.com/Yynnys13/Site-Sync/blob/main/media/logo-wordmark.png" alt="Site Sync" width="320">
 </p>
 
 <p align="center">
