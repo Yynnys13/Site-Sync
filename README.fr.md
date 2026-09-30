@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Yynnys13/Site-Sync/blob/main/media/logo-wordmark.png" alt="Site Sync" width="320">
+  <img src="https://raw.githubusercontent.com/Yynnys13/Site-Sync/refs/heads/main/media/logo-wordmark.png" alt="Site Sync" width="320">
 </p>
 
 <p align="center">
@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="README.md">English</a> ·
+  <a href="https://github.com/Yynnys13/Site-Sync/blob/main/README.md">English</a> ·
   <b>Français</b> ·
-  <a href="README.ja.md">日本語</a>
+  <a href="https://github.com/Yynnys13/Site-Sync/blob/main/README.ja.md">日本語</a>
 </p>
 
 ---
@@ -74,16 +74,16 @@ Site distant  →  Récupération des fichiers  →  Vos fichiers locaux
 
 Une vidéo de démonstration montre l'extension en action, de l'ajout de l'adresse d'un site jusqu'à la modification en direct de son apparence et de son contenu.
 
-**▶️ Voir la vidéo : `[LIEN DE LA VIDÉO À AJOUTER]`**
+**▶️ [Voir la vidéo](https://api-online.alwaysdata.net/media/site-ssync-exemple.mp4)**
 
 Ce qu'on y voit :
 
-- le lancement d'une session sur un site de documentation ;
-- l'affichage du site dans l'aperçu de VS Code ;
-- la liste des ressources récupérées, classées par type (HTML, CSS, JavaScript, images, polices) ;
-- la modification d'une feuille de style qui transforme le site en **thème sombre**, sans recharger la page ;
-- la modification du HTML d'une page (changement d'un texte du logo) ;
-- la récupération automatique de nouvelles pages et de plusieurs versions de la documentation en naviguant.
+* le lancement d'une session sur un site de documentation ;
+* l'affichage du site dans l'aperçu de VS Code ;
+* la liste des ressources récupérées, classées par type (HTML, CSS, JavaScript, images, polices) ;
+* la modification d'une feuille de style qui transforme le site en **thème sombre**, sans recharger la page ;
+* la modification du HTML d'une page (changement d'un texte du logo) ;
+* la récupération automatique de nouvelles pages et de plusieurs versions de la documentation en naviguant.
 
 ---
 

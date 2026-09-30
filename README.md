@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Yynnys13/Site-Sync/blob/main/media/logo-wordmark.png" alt="Site Sync" width="320">
+  <img src="https://raw.githubusercontent.com/Yynnys13/Site-Sync/refs/heads/main/media/logo-wordmark.png" alt="Site Sync" width="320">
 </p>
 
 <p align="center">
@@ -8,8 +8,8 @@
 
 <p align="center">
   <b>English</b> ·
-  <a href="README.fr.md">Français</a> ·
-  <a href="README.ja.md">日本語</a>
+  <a href="https://github.com/Yynnys13/Site-Sync/blob/main/README.fr.md">Français</a> ·
+  <a href="https://github.com/Yynnys13/Site-Sync/blob/main/README.ja.md">日本語</a>
 </p>
 
 ---
@@ -74,20 +74,20 @@ Remote site  →  Files fetched  →  Your local files
 
 A demo video shows the extension in action, from entering a site's address to changing its look and content live.
 
-**▶️ Watch the video: `[VIDEO LINK TO ADD]`**
-
 <p align="center">
-  <img src="https://api-online.alwaysdata.net/media/site-ssync-exemple.gif" alt="Site Sync demo" width="800">
+  <a href="https://api-online.alwaysdata.net/media/site-ssync-exemple.mp4">
+    <img src="https://img.shields.io/badge/▶️%20Watch%20video-Video%20demo-blue?style=for-the-badge" alt="Watch video demo">
+  </a>
 </p>
 
 What you can see in it:
 
 - starting a session on a documentation website;
 - the site displayed in VS Code's preview;
-- the list of fetched resources, sorted by type (HTML, CSS, JavaScript, images, fonts);
-- editing a stylesheet that turns the site into a **dark theme**, without reloading the page;
-- editing a page's HTML (changing the logo text);
-- new pages and several documentation versions being fetched automatically while browsing.
+- the list of fetched resources, sorted by type;
+- editing a stylesheet that turns the site into a dark theme;
+- editing a page's HTML;
+- new pages and documentation versions being fetched automatically while browsing.
 
 ---
 

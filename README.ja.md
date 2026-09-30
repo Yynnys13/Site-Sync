@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Yynnys13/Site-Sync/blob/main/media/logo-wordmark.png" alt="Site Sync" width="320">
+  <img src="https://raw.githubusercontent.com/Yynnys13/Site-Sync/refs/heads/main/media/logo-wordmark.png" alt="Site Sync" width="320">
 </p>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="README.md">English</a> ·
-  <a href="README.fr.md">Français</a> ·
+  <a href="https://github.com/Yynnys13/Site-Sync/blob/main/README.md">English</a> ·
+  <a href="https://github.com/Yynnys13/Site-Sync/blob/main/README.fr.md">Français</a> ·
   <b>日本語</b>
 </p>
 
@@ -74,16 +74,16 @@
 
 デモ動画では、サイトのアドレスを入力してから、外観や内容をリアルタイムで変更するまでの流れを紹介しています。
 
-**▶️ 動画を見る: `[動画のリンクを追加]`**
+**▶️ [動画を見る](https://api-online.alwaysdata.net/media/site-ssync-exemple.mp4)**
 
-動画の内容:
+動画の内容：
 
-- ドキュメントサイトでセッションを開始する
-- VS Code のプレビューにサイトが表示される
-- 取得したリソースの一覧(HTML、CSS、JavaScript、画像、フォント別)
-- スタイルシートを編集し、ページを再読み込みせずに**ダークテーマ**へ変更する
-- ページのHTMLを編集する(ロゴの文字を変更)
-- ページを移動すると、新しいページや複数のバージョンのドキュメントが自動的に取得される
+* ドキュメントサイトでセッションを開始する
+* VS Code のプレビューにサイトが表示される
+* 取得したリソースの一覧を種類別に確認する（HTML、CSS、JavaScript、画像、フォント）
+* スタイルシートを編集し、ページを再読み込みせずに**ダークテーマ**へ変更する
+* ページの HTML を編集する（ロゴの文字を変更する）
+* ページを移動すると、新しいページや複数のバージョンのドキュメントが自動的に取得される
 
 ---
 
