@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.4.3
+- Update Readme
+
 ## 0.4.2
 - Update Readme
 
